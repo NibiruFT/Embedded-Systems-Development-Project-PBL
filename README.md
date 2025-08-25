@@ -1,6 +1,3 @@
-# Embedded-Systems-Development-Project-PBL
-Designing and implementing embedded applications using C for ATMega328p and ARM Cortex-M microcontrollers. Integrating key peripherals including GPIO, timers, ADC/DAC, UART, I2C, SPI, RTC, and DMA. Bare-metal and RTOS-based systems, applying real-time scheduling and interrupt-driven control.
-
 # Unit 1 - Introduction to 8-bit microcontrollers and basic peripherals
 This project focused on the fundamentals of embedded systems, emphasizing both theoretical understanding and practical application. It began with a comprehensive review of the C programming language tailored for embedded environments, followed by an introduction to the ATmega328p microcontroller and its architecture. Throughout the project, I worked extensively with essential peripherals such as GPIO, interrupts, ADC, timers, USART, and EEPROM, gaining hands-on experience in configuring and integrating these components. Development was carried out using the Microchip Studio® IDE, which provided a robust platform for coding, debugging, and testing. As part of the curriculum, I completed a partial integrative project that consolidated the acquired knowledge into a functional embedded system prototype, demonstrating proficiency in low-level programming and hardware interfacing.
 
