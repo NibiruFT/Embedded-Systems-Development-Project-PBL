@@ -19,4 +19,4 @@ This project focused on the fundamentals of embedded systems, emphasizing both t
 
 This macro project will be subdivided into approximately 10 sprints. A new CPU component will be implemented in each sprint.
 
-- [Project 1](https://github.com/NibiruFT/CPU-MIPS/tree/main/Sprint%201): First Project
+- [Project 1](https://github.com/NibiruFT/Embedded-Systems-Development-Project-PBL/tree/main/Sprint%201): First Project
