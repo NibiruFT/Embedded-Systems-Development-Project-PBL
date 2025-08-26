@@ -1,4 +1,4 @@
-# Sprint 1 - 
+# Sprint 1 - Blink with delay
 
 > **General description of the problem**: Generate the hex file and upload to SIMULIDE. 
 <p align="center">
