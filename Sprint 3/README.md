@@ -8,3 +8,5 @@
 </p>
 
 > Knowledge about the [schematics](https://imgur.com/a/hs5GSX9) of both hardwares are needed.
+> On the SIMULIDE both schematics were tested.
+> 
