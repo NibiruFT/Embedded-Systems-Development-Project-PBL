@@ -11,6 +11,9 @@ This project focused on the fundamentals of embedded systems, emphasizing both t
 ## SIMULIDE
 > [SimulIDE](https://simulide.com/p) is a simple real time electronic circuit simulator, intended for hobbyist or students to learn and experiment with analog and digital electronic circuits and microcontrollers. It supports PIC, AVR , Arduino and other MCUs and MPUs. 
 
+## Microchip Studio
+> [Microchip Studio](https://www.microchip.com/en-us/tools-resources/develop/microchip-studio) is an Integrated Development Environment (IDE) for developing and debugging AVR® and SAM microcontroller applications.
+
 ## PICSimLab
 > [PICSimLab](https://github.com/lcgamboa/picsimlab) is a realtime emulator of [development boards](https://lcgamboa.github.io/picsimlab_docs/stable/Boards.html) with MPLABX/avr-gdb debugger integration.
 
@@ -19,4 +22,5 @@ This project focused on the fundamentals of embedded systems, emphasizing both t
 
 This macro project will be subdivided into approximately 10 sprints. A new CPU component will be implemented in each sprint.
 
-- [Project 1](https://github.com/NibiruFT/Embedded-Systems-Development-Project-PBL/tree/main/Sprint%201): First Project
+- [Sprint 1](https://github.com/NibiruFT/Embedded-Systems-Development-Project-PBL/tree/main/Sprint%201): First Project
+- [Sprint 2](https://github.com/NibiruFT/Embedded-Systems-Development-Project-PBL/tree/main/Sprint%201): 7 segments
